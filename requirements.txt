@@ -5,4 +5,4 @@ idna==3.10
 random-user-agent==1.0.1
 requests==2.32.4
 soupsieve==2.6
-urllib3==2.2.3
+urllib3==2.5.0
